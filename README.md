@@ -46,6 +46,7 @@ Additionally, the UI enables interaction with the simulation by allowing users t
   * Equilibrium at 65% Food: Without considering volatility, when the food covers 65% of the board, there exists an equilibrium state. This suggests a balance in the population dynamics where neither social nor greedy behaviors dominate.
   ![Alt text](images/equilibrium.png?raw=true "Equilibrium")
   * Impact of Food Percentage: Increasing the food percentage favors greedy players, while decreasing it favors social players. This indicates that food availability directly influences the prevalence of different behaviors within the population.
+  
   Graph when food is around 30% of board
   ![Alt text](images/scarcity.png?raw=true "Scarcity")
   Graph when food is around 90% of board
